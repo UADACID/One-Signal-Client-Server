@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "323452459662",
+    "firebase_url": "https://crud-1e50d.firebaseio.com",
+    "project_id": "crud-1e50d",
+    "storage_bucket": "crud-1e50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323452459662:android:cbd601452c06e5e0",
+        "android_client_info": {
+          "package_name": "com.onesignalexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323452459662-h6m86lm8316snlgme9dnq1hjnhkl4qdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-aYkL7rUt7En6LYw2awYstwvZOZdAjjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
